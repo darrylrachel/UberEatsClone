@@ -1,4 +1,4 @@
-<!-- # My Universal React Project -->
+# Uber Eats Clone
 
 <!-- 
 ## 🚀 How to use
